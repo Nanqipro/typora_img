@@ -1,4 +1,4 @@
-# Typora + PicGo + GitHub Bed
+# Typora + PicGo + GitHub 图床
 
 本仓库用于存储 Typora 笔记中的图片，旨在提高图片管理和加载效率。通过 Typora、PicGo 和 GitHub 的结合，实现快速、高效的图片上传和引用。
 
@@ -24,10 +24,10 @@
    - 启动 PicGo 应用程序。
 
 2. **设置 GitHub 图床**：
-   - 进入设置页面，选择 “图床设置”。
-   - 选择 “GitHub” 作为图床类型，并填写以下信息：
+   - 进入设置页面，选择“图床设置”。
+   - 选择“GitHub”作为图床类型，并填写以下信息：
      - **仓库名**：`yourusername/your-repository`
-     - **分支名**：`main` 或其他默认分支名
+     - **分支名**：`main`或其他默认分支名
      - **Token**：你的 GitHub 个人访问令牌（PAT），请参考 [创建 GitHub Token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) 获取你的令牌。
 
 3. **测试上传**：
